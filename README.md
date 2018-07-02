@@ -1,6 +1,5 @@
 # amethyst-project
 
+yes it is
 
-![porn](https://i.kalka.io/furryporn.png)
-
-here's some furry porn for you
+![notporn](https://i.kalka.io/2fa190cfe9c61322584ed1f65d8cb94e.jpg)
